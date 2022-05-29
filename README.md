@@ -1,1 +1,1 @@
-# 100-Cool-Projects-in-Python-
+# 100+ Cool Projects in Python
